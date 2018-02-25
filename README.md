@@ -246,7 +246,7 @@ __3.24 Prototypes & Deliverables to User Test__
 
 - [Udacory Lesson Page](https://classroom.udacity.com/courses/ud509/lessons/4275169017/concepts/43280585500923)
 
-#### Other mentioned Books
+### Other mentioned Books
 
 - [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
 - [Expert Political Judgment: How Good Is It? How Can We Know?](https://www.amazon.com/Expert-Political-Judgment-Good-Know/dp/0691128715)
